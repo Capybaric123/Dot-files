@@ -12,3 +12,4 @@ This is a list of requierments for this thing to work!
 | Vim | You will need vim to use the .vimrc and the .vim folder |
 | Oh-My-Zsh | You need this in order to have a terminal theme |
 | Vim-Plug | To use the plugins in the .vimrc config |
+| ZSH | This is a shell used for these configs |
